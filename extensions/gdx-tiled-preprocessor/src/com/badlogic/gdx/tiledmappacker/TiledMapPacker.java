@@ -498,7 +498,6 @@ public class TiledMapPacker {
 		}
 		}
 
-		TiledMapPacker packer = new TiledMapPacker(packerSettings);
 		LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
 		config.forceExit = false;
 		config.width = 100;
